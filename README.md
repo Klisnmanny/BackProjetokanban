@@ -14,5 +14,5 @@ Obs: Trabalhando na montagem do front.
 - Node.js (versão 18.18 ou superior)
 - PostgreSQL (ou outro banco de dados compatível com Prisma)
 
-## Instalação
+
 
